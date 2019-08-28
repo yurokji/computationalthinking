@@ -3,7 +3,7 @@ import itertools
 
 # 사용자가 변경할 수 있는 부분
 # 시뮬레이션 반복 시행 횟수
-numRepeatSimulation = 100
+numRepeatSimulation = 10
 numGamesPerWeek = 1000
 
 # 1년동안 로또를 사는 횟수(52주)
